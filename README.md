@@ -15,27 +15,24 @@ The script uses the psutil library to fetch real-time system information. By def
 - `--cpu`: Enable monitoring of individual CPU cores.
 - `--network`: Enable monitoring of network usage.
 
-**Example Usage:**
+## Example Usage:
 
-1. Basic Monitoring:
+**Basic Monitoring:**
 
-To run the script enter this into the CLI:
- 
     python script_name.py
 
-3. Monitoring CPU Cores and Network:
+**Monitoring CPU Cores and Network:**
 
-Example of using the arguments:
 
     python script_name.py --interval 2 --duration 10 --cpu --network
-
-4. Adding as a Command-Line Option:
+    
+**Adding as a Command-Line Option:**
 
 To make the script globally accessible, copy it to a directory in the system's PATH. For example:
 
     sudo cp script_name.py /usr/local/bin/system_monitor
 
-Afterwards, users can run the script as a command:
+**Afterwards, users can run the script as a command:**
 
     system_monitor --interval 2 --duration 10 --cpu --network
 
