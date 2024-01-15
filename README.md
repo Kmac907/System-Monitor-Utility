@@ -34,6 +34,6 @@ To make the script globally accessible, copy it to a directory in the system's P
 
 **Afterwards, users can run the script as a command:**
 
-    system_monitor --interval 2 --duration 10 --cpu --network
+    script_name --interval 2 --duration 10 --cpu --network
 
 By following these steps, the script becomes a convenient and customizable command-line utility for system monitoring on a Linux environment.
