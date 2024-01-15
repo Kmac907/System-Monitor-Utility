@@ -18,20 +18,24 @@ The script uses the psutil library to fetch real-time system information. By def
 **Example Usage:**
 
 1. Basic Monitoring:
+
+To run the script enter this into the CLI:
  
     python script_name.py
 
-2. Monitoring CPU Cores and Network:
+3. Monitoring CPU Cores and Network:
+
+Example of using the arguments:
 
     python script_name.py --interval 2 --duration 10 --cpu --network
 
-3. Adding as a Command-Line Option:
+4. Adding as a Command-Line Option:
 
 To make the script globally accessible, copy it to a directory in the system's PATH. For example:
 
     sudo cp script_name.py /usr/local/bin/system_monitor
 
-4. Afterwards, users can run the script as a command:
+Afterwards, users can run the script as a command:
 
     system_monitor --interval 2 --duration 10 --cpu --network
 
