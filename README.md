@@ -23,11 +23,11 @@ The script uses the psutil library to fetch real-time system information. By def
 
 ![image](https://github.com/Kmac907/System-Monitor-Utility/assets/120307903/9ffdbf9b-aac1-40d1-b44f-35f230bb8976)
 
-
 **Monitoring CPU Cores and Network:**
 
-
     python script_name.py --interval 2 --duration 10 --cpu --network
+    
+![image](https://github.com/Kmac907/System-Monitor-Utility/assets/120307903/3d32d64d-2dff-4799-9314-e8b0ea292d69)
     
 **Adding as a Command-Line Option:**
 
