@@ -21,7 +21,7 @@ The script uses the psutil library to fetch real-time system information. By def
 
     python script_name.py
 
-    ![image](https://github.com/Kmac907/System-Monitor-Utility/assets/120307903/9ffdbf9b-aac1-40d1-b44f-35f230bb8976)
+[image](https://github.com/Kmac907/System-Monitor-Utility/assets/120307903/9ffdbf9b-aac1-40d1-b44f-35f230bb8976)
 
 
 **Monitoring CPU Cores and Network:**
