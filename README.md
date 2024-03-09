@@ -2,7 +2,7 @@
 
 **Description:**
 
-This Python script serves as a Linux command-line utility for monitoring system resources. It provides an overview of CPU usage, memory usage, and disk usage by default, with optional features for monitoring individual CPU cores and network usage.
+This Python script serves as a command-line utility for monitoring system resources. It provides an overview of CPU usage, memory usage, and disk usage by default, with optional features for monitoring individual CPU cores and network usage.
 
 **How It Works:**
 
